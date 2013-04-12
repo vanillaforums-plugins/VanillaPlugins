@@ -1,0 +1,21 @@
+[submodule "AdvancedGoogleAnalytics"]
+	path = AdvancedGoogleAnalytics
+	url = https://github.com/lifeisfoo/AdvancedGoogleAnalytics.git
+[submodule "CategoryBasedNewDiscussionButtonText"]
+	path = CategoryBasedNewDiscussionButtonText
+	url = https://github.com/lifeisfoo/CategoryBasedNewDiscussionButtonText.git
+[submodule "EasyMembersList"]
+	path = EasyMembersList
+	url = https://github.com/lifeisfoo/EasyMembersList.git
+[submodule "Groups"]
+	path = Groups
+	url = https://github.com/lifeisfoo/Groups.git
+[submodule "MailChimpIntegration"]
+	path = MailChimpIntegration
+	url = https://github.com/lifeisfoo/MailChimpIntegration.git
+[submodule "Memberships"]
+	path = Memberships
+	url = https://github.com/lifeisfoo/Memberships.git
+[submodule "Van2Shout"]
+	path = Van2Shout
+	url = https://github.com/lifeisfoo/Van2Shout.git
