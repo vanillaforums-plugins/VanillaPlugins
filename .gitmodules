@@ -22,3 +22,6 @@
 [submodule "PictureGallery"]
 	path = PictureGallery
 	url = https://github.com/lifeisfoo/PictureGallery.git
+[submodule "WhosOnline"]
+	path = WhosOnline
+	url = https://github.com/lifeisfoo/WhosOnline.git
