@@ -19,3 +19,6 @@
 [submodule "Van2Shout"]
 	path = Van2Shout
 	url = https://github.com/lifeisfoo/Van2Shout.git
+[submodule "PictureGallery"]
+	path = PictureGallery
+	url = https://github.com/lifeisfoo/PictureGallery.git
