@@ -25,3 +25,6 @@
 [submodule "WhosOnline"]
 	path = WhosOnline
 	url = https://github.com/lifeisfoo/WhosOnline.git
+[submodule "RegistrationRole"]
+	path = RegistrationRole
+	url = https://github.com/lifeisfoo/RegistrationRole.git
