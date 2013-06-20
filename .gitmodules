@@ -28,3 +28,6 @@
 [submodule "RegistrationRole"]
 	path = RegistrationRole
 	url = https://github.com/lifeisfoo/RegistrationRole.git
+[submodule "Group2Role"]
+	path = Group2Role
+	url = https://github.com/lifeisfoo/Group2Role.git
