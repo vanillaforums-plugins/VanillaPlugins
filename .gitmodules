@@ -34,3 +34,6 @@
 [submodule "RegistrationGroup"]
 	path = RegistrationGroup
 	url = https://github.com/lifeisfoo/RegistrationGroup
+[submodule "VanillaStarter"]
+	path = VanillaStarter
+	url = https://github.com/lifeisfoo/VanillaStarter
