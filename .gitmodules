@@ -31,3 +31,6 @@
 [submodule "Group2Role"]
 	path = Group2Role
 	url = https://github.com/lifeisfoo/Group2Role.git
+[submodule "RegistrationGroup"]
+	path = RegistrationGroup
+	url = https://github.com/lifeisfoo/RegistrationGroup
