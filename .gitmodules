@@ -37,3 +37,6 @@
 [submodule "VanillaStarter"]
 	path = VanillaStarter
 	url = https://github.com/lifeisfoo/VanillaStarter
+[submodule "ForceRole"]
+	path = ForceRole
+	url = https://github.com/lifeisfoo/ForceRole.git
