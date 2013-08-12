@@ -17,5 +17,5 @@ Git superproject to track all my vanilla related repositories (switched from sub
 * [Registration Role](https://github.com/lifeisfoo/RegistrationRole)
 * [Reusable Stats](https://github.com/lifeisfoo/ReusableStats)
 * [Van2Shout](https://github.com/lifeisfoo/Van2Shout) // contributed
-* [Vanilla Started](https://github.com/lifeisfoo/VanillaStarter)
+* [Vanilla Starter](https://github.com/lifeisfoo/VanillaStarter)
 * [Whos Online](https://github.com/lifeisfoo/WhosOnline) // forked
