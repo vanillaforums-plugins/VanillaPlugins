@@ -9,6 +9,7 @@ Git superproject to track all my vanilla related repositories (switched from sub
 * [Friendships](https://github.com/lifeisfoo/Friendships)
 * [Group2Role](https://github.com/lifeisfoo/Group2Role)
 * [Groups](https://github.com/lifeisfoo/Groups) // only imported sources
+* [Hide Activities](https://github.com/lifeisfoo/HideActivities)
 * [Mail Chimp Integration](https://github.com/lifeisfoo/MailChimpIntegration)
 * [Memberships](https://github.com/lifeisfoo/Memberships) // forked
 * [Picture Gallery](https://github.com/lifeisfoo/PictureGallery) // courtesy of VrijVlinder
