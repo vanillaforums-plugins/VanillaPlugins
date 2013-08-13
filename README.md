@@ -19,3 +19,7 @@ Git superproject to track all my vanilla related repositories (switched from sub
 * [Van2Shout](https://github.com/lifeisfoo/Van2Shout) // contributed
 * [Vanilla Starter](https://github.com/lifeisfoo/VanillaStarter)
 * [Whos Online](https://github.com/lifeisfoo/WhosOnline) // forked
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lifeisfoo/VanillaPlugins/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
